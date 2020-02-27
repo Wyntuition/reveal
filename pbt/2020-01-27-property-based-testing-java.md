@@ -2,19 +2,19 @@
 
 ### Featuring junit-quickcheck
 
---
+---
 
 ## What is property-based testing? 
 
 PBT is a way to write automated tests that focuses on a property of functionality
 
---
+---
 
 ## Why bother?
 
 Typical unit tests with defined inputs are often called example-based tests
 
---
+---
 
 ```
 @Test
@@ -32,7 +32,7 @@ public void answer_invalid_from_long_value_example_based() {
 }
 ```
 
---
+---
 
 ```
 @Test
